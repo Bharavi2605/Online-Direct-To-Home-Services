@@ -1,3 +1,4 @@
+                       ABSTRACT
 Direct-to-Home (DTH) defines as Transmission of digital video channel 
 to the subscribers at their Home directly through dish. The first DTH 
 service in the country was launched by Dish TV on 2 October 2003. DD 
@@ -15,3 +16,16 @@ operators had led the creation of DTH industry in India. Tata sky,
 Reliance Big tv, Airtel digital tv, Dish tv, Videocon d2h etc. are the 
 major DTH Service providers in Indian market. DTH players 
 concentrate more on value added services to get market advantage.
+
+
+                          MODULES
+• Home page  
+• Sign-up page  
+• Login page  
+• About page  
+• FAQ page 
+• Recharge page  
+• Channels page 
+• Binge Combo page 
+• Contact page 
+• Payment page  
