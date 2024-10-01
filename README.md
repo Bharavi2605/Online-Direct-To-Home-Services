@@ -29,3 +29,12 @@ concentrate more on value added services to get market advantage.
 • Binge Combo page 
 • Contact page 
 • Payment page  
+
+                           SOFTWARE REQUIREMENTS  
+1. Text Editor: Visual Studio Code, Notepad  
+2. Front End: HTML,CSS,JAVASCRIPT  
+3. Internet Browser: Google Chrome/Mozilla Firefox/Internet 
+Browser  
+                            HARDWARE REQUIREMENTS  
+1. Processor-Intel Core I5 
+2. RAM-8GB 
